@@ -1,0 +1,30 @@
+div.delfino-check {
+    font-family: 'dotum';
+    font-size: 10pt;
+}
+td {
+    font-size: 9pt;
+}
+textarea {
+    width: 410px;height: 40px;font-size: 9pt;
+}
+table.body {
+    width: 640px;
+}
+td.head {
+    background-color: #EDF8F8;
+    text-align: center;
+}
+td.body {
+    background-color: #FFFFFF;
+    text-align: center;
+}
+td.body_l {
+    background-color: #FFFFFF;
+    text-align: left;
+    line-height: 150%
+}
+td.body_r {
+    background-color: #FFFFFF;
+    text-align: right;
+}
